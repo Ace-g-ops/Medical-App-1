@@ -1,0 +1,465 @@
+.appointment-page-child117 {
+  position: absolute;
+  top: 61px;
+  left: 20px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+  width: 44px;
+  height: 40px;
+}
+.vector-icon55 {
+  position: absolute;
+  height: 2.7%;
+  width: 2.69%;
+  top: 7.45%;
+  right: 88.9%;
+  bottom: 89.85%;
+  left: 8.41%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.detail-doctor6 {
+  position: absolute;
+  top: 67px;
+  left: 142px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  font-family: var(--font-inter);
+}
+.vector-icon56 {
+  position: absolute;
+  height: 2.36%;
+  width: 5.11%;
+  top: 4.86%;
+  right: 11.01%;
+  bottom: 92.78%;
+  left: 83.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.appointment-page-child118 {
+  position: absolute;
+  top: 145px;
+  left: 20px;
+  border-radius: 50%;
+  width: 80px;
+  height: 93px;
+  object-fit: cover;
+}
+.dermatology-consultant1,
+.dr-robert-lune7 {
+  position: absolute;
+  left: 104px;
+  font-weight: 600;
+  font-family: var(--font-inter);
+}
+.dr-robert-lune7 {
+  top: 172px;
+  font-size: var(--font-size-xl);
+}
+.dermatology-consultant1 {
+  top: 196px;
+  color: var(--color-lightgray-200);
+}
+.vector-icon57,
+.vector-icon58,
+.vector-icon59,
+.vector-icon60 {
+  position: absolute;
+  height: 2.4%;
+  width: 5.43%;
+  top: 23.33%;
+  right: 70.28%;
+  bottom: 74.27%;
+  left: 24.3%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon58,
+.vector-icon59,
+.vector-icon60 {
+  right: 52.75%;
+  left: 41.82%;
+}
+.vector-icon59,
+.vector-icon60 {
+  right: 43.64%;
+  left: 50.93%;
+}
+.vector-icon60 {
+  right: 61.4%;
+  left: 33.18%;
+}
+.i18,
+.patient6 {
+  position: absolute;
+  font-weight: 600;
+}
+.i18 {
+  top: 222px;
+  left: 254px;
+  font-size: var(--font-size-smi);
+  font-family: var(--font-inter);
+}
+.patient6 {
+  top: 13.56%;
+  left: 0;
+}
+.doc-1-rating-child10,
+.doc-1-rating-child9 {
+  position: absolute;
+  height: 88.17%;
+  width: 0.72%;
+  top: 11.83%;
+  right: 74.01%;
+  bottom: 0;
+  left: 25.27%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.doc-1-rating-child10 {
+  height: 91.56%;
+  top: -0.03%;
+  right: 28.16%;
+  bottom: 8.47%;
+  left: 71.12%;
+}
+.i19 {
+  position: absolute;
+  top: 52.54%;
+  left: 0;
+  font-weight: 600;
+  color: var(--color-black);
+}
+.experiences6,
+.rating6,
+.yrs6 {
+  position: absolute;
+  top: 15.25%;
+  left: 38.99%;
+  font-weight: 600;
+}
+.rating6,
+.yrs6 {
+  top: 11.86%;
+  left: 85.2%;
+}
+.yrs6 {
+  top: 52.54%;
+  left: 44.04%;
+  color: var(--color-black);
+}
+.doc-1-rating6,
+.i20 {
+  position: absolute;
+  font-size: var(--font-size-smi);
+  font-family: var(--font-inter);
+}
+.doc-1-rating6 {
+  top: 276px;
+  left: calc(50% - 138px);
+  width: 277px;
+  height: 59px;
+  color: var(--color-lightgray-100);
+}
+.i20 {
+  top: 322px;
+  left: 311px;
+  font-weight: 600;
+}
+.select-date6 {
+  position: absolute;
+  top: 379px;
+  left: 20px;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  width: 112px;
+}
+.appointment-page-child119,
+.appointment-page-child120,
+.appointment-page-child121 {
+  position: absolute;
+  top: 418px;
+  left: 28px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro);
+  width: 48px;
+  height: 70px;
+}
+.appointment-page-child120,
+.appointment-page-child121 {
+  left: 369px;
+}
+.appointment-page-child121 {
+  left: 301px;
+}
+.tue6 {
+  position: absolute;
+  top: 431px;
+  left: 312px;
+  color: var(--color-silver-400);
+}
+.appointment-page-child122,
+.appointment-page-child123,
+.appointment-page-child124 {
+  position: absolute;
+  top: 418px;
+  left: 232px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-mediumslateblue-100);
+  width: 48px;
+  height: 70px;
+}
+.appointment-page-child123,
+.appointment-page-child124 {
+  left: 164px;
+  background-color: var(--color-gainsboro);
+}
+.appointment-page-child124 {
+  left: 96px;
+}
+.fri6 {
+  position: absolute;
+  top: 426px;
+  left: 42px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkgray-100);
+}
+.b37,
+.sat6 {
+  position: absolute;
+  top: 455px;
+  left: 46px;
+}
+.sat6 {
+  top: 428px;
+  left: 108px;
+  color: var(--color-silver-200);
+}
+.b38,
+.sun6 {
+  position: absolute;
+  top: 458px;
+  left: 113px;
+}
+.sun6 {
+  top: 428px;
+  left: 172px;
+  color: var(--color-silver-100);
+}
+.b39,
+.mon6 {
+  position: absolute;
+  top: 458px;
+  left: 179px;
+}
+.mon6 {
+  top: 428px;
+  left: 240px;
+  color: var(--color-white);
+}
+.b40,
+.b41,
+.wed6 {
+  position: absolute;
+  top: 458px;
+  left: 249px;
+}
+.b41,
+.wed6 {
+  top: 461px;
+  left: 325px;
+}
+.wed6 {
+  top: 434px;
+  left: 377px;
+  color: var(--color-rosybrown-100);
+}
+.b42,
+.select-time6 {
+  position: absolute;
+  top: 458px;
+  left: 385px;
+}
+.select-time6 {
+  top: 525px;
+  left: 20px;
+  font-size: var(--font-size-lg);
+}
+.appointment-page-child125,
+.appointment-page-child127,
+.appointment-page-child128,
+.appointment-page-child129 {
+  position: absolute;
+  top: 569px;
+  left: 25px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro);
+  width: 95px;
+  height: 24px;
+}
+.appointment-page-child127,
+.appointment-page-child128,
+.appointment-page-child129 {
+  top: 735px;
+  left: 20px;
+  width: 109px;
+}
+.appointment-page-child128,
+.appointment-page-child129 {
+  left: 151px;
+  width: 111px;
+}
+.appointment-page-child129 {
+  left: 290px;
+  width: 116px;
+}
+.video-call6 {
+  position: absolute;
+  top: 728px;
+  left: 304px;
+  font-weight: 500;
+  font-family: var(--font-inknut-antiqua);
+}
+.appointment-page-child130 {
+  position: absolute;
+  top: 784px;
+  left: 28px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro);
+  width: 95px;
+  height: 24px;
+  cursor: pointer;
+}
+.hospital6,
+.voice-call6 {
+  position: absolute;
+  font-weight: 500;
+  font-family: var(--font-inknut-antiqua);
+}
+.hospital6 {
+  top: 726px;
+  left: 38px;
+  font-size: var(--font-size-base);
+}
+.voice-call6 {
+  top: 727px;
+  left: 164px;
+}
+.appointment-page-child131,
+.appointment-page-child132,
+.appointment-page-child133 {
+  position: absolute;
+  top: 1067px;
+  left: 34px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro);
+  width: 95px;
+  height: 24px;
+}
+.appointment-page-child132,
+.appointment-page-child133 {
+  top: 569px;
+  left: 290px;
+}
+.appointment-page-child133 {
+  left: 167px;
+  background-color: var(--color-mediumslateblue-100);
+}
+.am12 {
+  position: absolute;
+  top: 574px;
+  left: 181px;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+}
+.appointment-page-child134,
+.appointment-page-child135 {
+  position: absolute;
+  top: 618px;
+  left: 164px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro);
+  width: 95px;
+  height: 24px;
+}
+.appointment-page-child135 {
+  left: 28px;
+}
+.am13,
+.pm18,
+.pm19,
+.pm20 {
+  position: absolute;
+  font-weight: 600;
+  font-family: var(--font-inter);
+}
+.am13 {
+  top: 574px;
+  left: 38px;
+  color: var(--color-silver-300);
+}
+.pm18,
+.pm19,
+.pm20 {
+  top: 572px;
+  left: 305px;
+}
+.pm19,
+.pm20 {
+  top: 621px;
+  left: 40px;
+}
+.pm20 {
+  left: 178px;
+}
+.appointment-options6 {
+  position: absolute;
+  top: 696px;
+  left: 28px;
+  font-size: var(--font-size-lg);
+  font-weight: 700;
+}
+.chat6 {
+  position: absolute;
+  top: 776px;
+  left: 52px;
+  font-weight: 500;
+  font-family: var(--font-inknut-antiqua);
+}
+.appointment-page-child136 {
+  position: absolute;
+  top: 852px;
+  left: 62px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-mediumslateblue-200);
+  width: 317px;
+  height: 40px;
+}
+.make-appointment6 {
+  position: absolute;
+  top: 859px;
+  left: 139px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+}
+.appointment-page6 {
+  position: relative;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  width: 100%;
+  height: 926px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-inria-serif);
+}

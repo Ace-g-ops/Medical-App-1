@@ -1,0 +1,645 @@
+.vector-icon {
+  position: absolute;
+  height: 1.14%;
+  top: 104.95%;
+  bottom: -6.09%;
+  left: 104.74%;
+  max-height: 100%;
+  width: 0;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 187, 247, 0.64),
+    rgba(50, 114, 134, 0.55) 70.32%
+  );
+  width: 382.55px;
+  height: 255.95px;
+}
+.hi-bola,
+.how-are-you {
+  position: absolute;
+  top: 27.03px;
+  left: 23.32px;
+  font-weight: 600;
+  display: inline-block;
+  width: 82.04px;
+  height: 23.05px;
+}
+.how-are-you {
+  top: 62px;
+  left: 19px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  width: 223.66px;
+  height: 19.08px;
+}
+.group-item {
+  position: absolute;
+  top: 102.54px;
+  left: 23.32px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-white);
+  width: 343.69px;
+  height: 42.92px;
+}
+.search-icon {
+  position: absolute;
+  top: 115.26px;
+  left: 44.04px;
+  width: 20.73px;
+  height: 19.08px;
+  overflow: hidden;
+}
+.search-for-doctorhealth {
+  position: absolute;
+  top: 117.64px;
+  left: 89.81px;
+  font-size: var(--font-size-smi);
+  color: var(--color-black);
+  display: inline-block;
+  width: 202.93px;
+  height: 15.1px;
+}
+.health-report-button {
+  position: absolute;
+  top: 166.13px;
+  left: 117.44px;
+  width: 58.72px;
+  height: 50.08px;
+}
+.notification-button-child {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-powderblue);
+}
+.notification-button,
+.notification-button-child,
+.vector-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.vector-icon1 {
+  height: 65.9%;
+  width: 59.29%;
+  top: 17.05%;
+  right: 20.36%;
+  bottom: 17.05%;
+  left: 20.36%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.health-report-button1 {
+  position: absolute;
+  top: 168.51px;
+  left: 27.63px;
+  width: 58.72px;
+  height: 50.08px;
+  cursor: pointer;
+}
+.notification-button-item {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-powderblue);
+}
+.health-report-button3,
+.notification-button-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 58.72px;
+  height: 50.08px;
+}
+.health-report-button-1,
+.health-report-button-11,
+.vector-parent {
+  position: absolute;
+  top: 166.13px;
+  left: 313.47px;
+  width: 58.72px;
+  height: 50.08px;
+}
+.health-report-button-11,
+.vector-parent {
+  left: 217.61px;
+}
+.vector-parent {
+  height: 30.13%;
+  width: 103.5%;
+  top: 1.84%;
+  right: -8.41%;
+  bottom: 68.03%;
+  left: 4.91%;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+}
+.upcoming-schedule {
+  position: absolute;
+  top: 292px;
+  left: 21px;
+  font-weight: 600;
+}
+.homepage-child {
+  position: absolute;
+  top: 285px;
+  left: 190px;
+  border-radius: 50%;
+  background-color: var(--color-red);
+  width: 31px;
+  height: 32px;
+}
+.div {
+  position: absolute;
+  top: 289px;
+  left: 201px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  color: var(--color-white);
+}
+.homepage-item {
+  position: absolute;
+  top: 362px;
+  left: 36px;
+  border-radius: var(--br-21xl);
+  background: linear-gradient(110.48deg, #4cbdcc, rgba(72, 138, 152, 0.72));
+  width: 364px;
+  height: 144px;
+}
+.homepage-inner {
+  position: absolute;
+  top: 366px;
+  left: 54px;
+  border-radius: 50%;
+  width: 29px;
+  height: 42px;
+  object-fit: cover;
+}
+.dermatology-consultant,
+.dr-robert-lune {
+  position: absolute;
+  left: 94px;
+  color: var(--color-white);
+}
+.dr-robert-lune {
+  top: 369px;
+  font-size: var(--font-size-smi);
+  font-weight: 600;
+}
+.dermatology-consultant {
+  top: 385px;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+  width: 138px;
+  height: 16px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 447px;
+  left: calc(50% - 169px);
+  border-radius: var(--br-31xl);
+  background: linear-gradient(
+    91.12deg,
+    rgba(140, 225, 243, 0.47),
+    rgba(237, 43, 148, 0)
+  );
+  width: 337px;
+  height: 37px;
+}
+.div1,
+.tuesday-15-august {
+  position: absolute;
+  font-weight: 600;
+  color: var(--color-white);
+}
+.tuesday-15-august {
+  top: 456px;
+  left: 83px;
+  font-size: var(--font-size-2xs);
+  display: inline-block;
+  width: 110px;
+  height: 16px;
+}
+.div1 {
+  top: 457px;
+  left: 300px;
+  font-size: var(--font-size-xs);
+}
+.vector-icon2 {
+  height: 2.05%;
+  width: 3.74%;
+  top: 46.87%;
+  right: 94.63%;
+  bottom: 51.08%;
+  left: 1.64%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-icon2,
+.vector-icon3,
+.video-icon {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon3 {
+  height: 0.65%;
+  width: 2.34%;
+  top: 46.65%;
+  right: 95.56%;
+  bottom: 52.7%;
+  left: 2.1%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.video-icon {
+  top: 342px;
+  left: 290px;
+  width: 24px;
+  height: 24px;
+}
+.clipboard,
+.vector-icon4,
+.vector-icon5 {
+  position: absolute;
+  top: 468px;
+  left: 39px;
+  width: 20px;
+  height: 23px;
+  overflow: hidden;
+}
+.vector-icon4,
+.vector-icon5 {
+  height: 1.73%;
+  width: 3.5%;
+  top: 49.14%;
+  right: 82.71%;
+  bottom: 49.14%;
+  left: 13.79%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-icon5 {
+  height: 2.05%;
+  width: 5.14%;
+  top: 49.35%;
+  right: 31.78%;
+  bottom: 48.6%;
+  left: 63.08%;
+}
+.doctor-speciality,
+.view-all {
+  position: absolute;
+  top: 531px;
+  left: 20px;
+  font-weight: 600;
+}
+.view-all {
+  top: 532px;
+  left: 360px;
+  font-size: var(--font-size-mini);
+  color: rgba(204, 204, 204, 0.99);
+}
+.homepage-child1,
+.rectangle-icon {
+  position: absolute;
+  border-radius: var(--br-3xs);
+  cursor: pointer;
+}
+.rectangle-icon {
+  top: 565px;
+  left: 19px;
+  width: 86px;
+  height: 76px;
+  object-fit: cover;
+}
+.homepage-child1 {
+  top: 562px;
+  left: 326px;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 78px;
+  height: 68px;
+}
+.homepage-child2 {
+  left: 332px;
+}
+.homepage-child2,
+.homepage-child3,
+.homepage-child4,
+.homepage-child5 {
+  position: absolute;
+  top: 684px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 78px;
+  height: 68px;
+}
+.homepage-child3 {
+  left: 27px;
+}
+.homepage-child4,
+.homepage-child5 {
+  left: calc(50% - 45px);
+}
+.homepage-child5 {
+  top: 562px;
+}
+.bandage-icon {
+  position: absolute;
+  height: 6.59%;
+  width: 12.85%;
+  top: 61.34%;
+  right: 44.63%;
+  bottom: 32.07%;
+  left: 42.52%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.group-icon,
+.teddy-b-icon {
+  position: absolute;
+  top: 577px;
+  left: 334px;
+  width: 64px;
+  height: 32px;
+  cursor: pointer;
+}
+.teddy-b-icon {
+  top: 691px;
+  left: 190px;
+  width: 41px;
+  height: 55px;
+}
+.homepage-child6 {
+  position: absolute;
+  top: 684.68px;
+  left: 63.84px;
+  border-radius: var(--br-11xl);
+  width: 20.69px;
+  height: 17.83px;
+}
+.homepage-child7,
+.vector-icon6 {
+  position: absolute;
+  top: 697px;
+  left: 34px;
+  width: 63px;
+  height: 49px;
+  cursor: pointer;
+}
+.vector-icon6 {
+  height: 5.08%;
+  width: 10.51%;
+  top: 75.05%;
+  right: 7.94%;
+  bottom: 19.87%;
+  left: 81.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.cardiologist {
+  position: absolute;
+  top: 649px;
+  left: 17px;
+  font-weight: 500;
+}
+.general {
+  margin: 0;
+}
+.general-practitioner {
+  text-decoration: none;
+  position: absolute;
+  top: 642px;
+  left: 163px;
+  font-size: var(--font-size-mini);
+  font-weight: 500;
+  color: inherit;
+  white-space: pre-wrap;
+}
+.dermatologist,
+.opthamologist {
+  position: absolute;
+  top: 649px;
+  left: 310px;
+  font-weight: 500;
+}
+.dermatologist {
+  top: 759.66px;
+  left: 12px;
+  transform: rotate(-0.88deg);
+  transform-origin: 0 0;
+}
+.neurologist,
+.pediatrician {
+  position: absolute;
+  top: 760px;
+  font-weight: 500;
+}
+.pediatrician {
+  left: 163px;
+  cursor: pointer;
+}
+.neurologist {
+  left: 325px;
+}
+.homepage-child8 {
+  position: absolute;
+  top: 820px;
+  left: 2px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 423px;
+  height: 56px;
+}
+.vector-icon7,
+.vector-icon8 {
+  position: absolute;
+  height: 2.92%;
+  width: 7.48%;
+  top: 90.28%;
+  right: 85.75%;
+  bottom: 6.8%;
+  left: 6.78%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon8 {
+  height: 2.7%;
+  width: 5.14%;
+  top: 90.6%;
+  right: 66.59%;
+  bottom: 6.7%;
+  left: 28.27%;
+}
+.vector-icon10,
+.vector-icon9 {
+  position: absolute;
+  height: 2.48%;
+  top: 91.04%;
+  bottom: 6.48%;
+  left: calc(50% - 13px);
+  max-height: 100%;
+  width: 19px;
+}
+.vector-icon10 {
+  height: 2.7%;
+  top: 90.6%;
+  bottom: 6.7%;
+  left: calc(50% - 10px);
+  width: 23px;
+}
+.vector-icon11,
+.vector-icon12 {
+  position: absolute;
+  height: 2.59%;
+  width: 5.14%;
+  top: 90.6%;
+  right: 68.46%;
+  bottom: 6.8%;
+  left: 26.4%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon12 {
+  height: 2.38%;
+  top: 91.04%;
+  right: 25.93%;
+  bottom: 6.59%;
+  left: 68.93%;
+}
+.ellipse-div,
+.homepage-child9 {
+  position: absolute;
+  top: 870px;
+  left: 37px;
+  border-radius: 50%;
+  background-color: var(--color-royalblue);
+  width: 13px;
+  height: 12px;
+}
+.homepage-child9 {
+  top: 831px;
+  left: 308px;
+  background-color: var(--color-red);
+  width: 20px;
+  height: 23px;
+  cursor: pointer;
+}
+.div2 {
+  position: absolute;
+  top: 834px;
+  left: 315px;
+  font-size: var(--font-size-smi);
+  font-weight: 600;
+  color: var(--color-white);
+  display: inline-block;
+  width: 7px;
+  height: 18px;
+}
+.vector-icon13,
+.vector-icon14,
+.vector-icon15 {
+  position: absolute;
+  height: 2.7%;
+  width: 5.61%;
+  top: 90.71%;
+  right: 7.01%;
+  bottom: 6.59%;
+  left: 87.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon14,
+.vector-icon15 {
+  width: 5.11%;
+  top: 21.17%;
+  right: 34.84%;
+  bottom: 76.13%;
+  left: 60.05%;
+}
+.vector-icon15 {
+  height: 2.4%;
+  width: 5.84%;
+  top: 21.27%;
+  right: 11.68%;
+  bottom: 76.33%;
+  left: 82.48%;
+}
+.appointment,
+.consultant,
+.health-centre,
+.health-report {
+  position: absolute;
+  top: 244px;
+  left: 43px;
+  font-size: var(--font-size-smi);
+  font-family: var(--font-inika);
+}
+.appointment,
+.health-centre,
+.health-report {
+  top: 248px;
+  left: 318px;
+  font-size: var(--font-size-2xs);
+}
+.appointment,
+.health-report {
+  top: 245px;
+  left: 228px;
+  font-size: var(--font-size-smi);
+}
+.health-report {
+  top: 244px;
+  left: 126px;
+}
+.homepage-child10 {
+  position: absolute;
+  top: 27px;
+  left: 328px;
+  border-radius: var(--br-21xl);
+  width: 54px;
+  height: 52px;
+  object-fit: cover;
+}
+.homepage-child11 {
+  position: absolute;
+  top: 67px;
+  left: 366px;
+  border-radius: 50%;
+  background-color: #77db8d;
+  width: 12px;
+  height: 14px;
+}
+.homepage {
+  position: relative;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  width: 100%;
+  height: 926px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

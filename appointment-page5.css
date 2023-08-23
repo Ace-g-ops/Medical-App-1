@@ -1,0 +1,503 @@
+.appointment-page-child97 {
+  position: absolute;
+  top: 61px;
+  left: 20px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+  width: 44px;
+  height: 40px;
+  cursor: pointer;
+}
+.vector-icon46 {
+  position: absolute;
+  height: 2.7%;
+  width: 2.69%;
+  top: 7.45%;
+  right: 88.9%;
+  bottom: 89.85%;
+  left: 8.41%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.detail-doctor5 {
+  position: absolute;
+  top: 67px;
+  left: 142px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  font-family: var(--font-inter);
+}
+.vector-icon47 {
+  position: absolute;
+  height: 2.36%;
+  width: 5.11%;
+  top: 4.86%;
+  right: 11.01%;
+  bottom: 92.78%;
+  left: 83.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.appointment-page-child98 {
+  position: absolute;
+  top: 145px;
+  left: 20px;
+  border-radius: 50%;
+  width: 80px;
+  height: 93px;
+  object-fit: cover;
+}
+.cardiologist-consultant,
+.dr-robert-lune6 {
+  position: absolute;
+  left: 104px;
+  font-weight: 600;
+  font-family: var(--font-inter);
+}
+.dr-robert-lune6 {
+  top: 172px;
+  font-size: var(--font-size-xl);
+}
+.cardiologist-consultant {
+  top: 196px;
+  color: var(--color-lightgray-200);
+}
+.vector-icon48,
+.vector-icon49,
+.vector-icon50,
+.vector-icon51 {
+  position: absolute;
+  height: 2.4%;
+  width: 5.43%;
+  top: 23.33%;
+  right: 70.28%;
+  bottom: 74.27%;
+  left: 24.3%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon49,
+.vector-icon50,
+.vector-icon51 {
+  right: 52.75%;
+  left: 41.82%;
+}
+.vector-icon50,
+.vector-icon51 {
+  right: 43.64%;
+  left: 50.93%;
+}
+.vector-icon51 {
+  right: 61.4%;
+  left: 33.18%;
+}
+.i15,
+.patient5 {
+  position: absolute;
+  font-weight: 600;
+}
+.i15 {
+  top: 222px;
+  left: 254px;
+  font-size: var(--font-size-smi);
+  font-family: var(--font-inter);
+}
+.patient5 {
+  top: 13.56%;
+  left: 0;
+}
+.doc-1-rating-child7,
+.doc-1-rating-child8 {
+  position: absolute;
+  height: 88.17%;
+  width: 0.72%;
+  top: 11.83%;
+  right: 74.01%;
+  bottom: 0;
+  left: 25.27%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.doc-1-rating-child8 {
+  height: 91.56%;
+  top: -0.03%;
+  right: 28.16%;
+  bottom: 8.47%;
+  left: 71.12%;
+}
+.i16 {
+  position: absolute;
+  top: 52.54%;
+  left: 0;
+  font-weight: 600;
+  color: var(--color-black);
+}
+.experiences5,
+.rating5,
+.yrs5 {
+  position: absolute;
+  top: 15.25%;
+  left: 38.99%;
+  font-weight: 600;
+}
+.rating5,
+.yrs5 {
+  top: 11.86%;
+  left: 85.2%;
+}
+.yrs5 {
+  top: 52.54%;
+  left: 44.04%;
+  color: var(--color-black);
+}
+.doc-1-rating5,
+.i17 {
+  position: absolute;
+  font-size: var(--font-size-smi);
+  font-family: var(--font-inter);
+}
+.doc-1-rating5 {
+  top: 276px;
+  left: calc(50% - 138px);
+  width: 277px;
+  height: 59px;
+  color: var(--color-lightgray-100);
+}
+.i17 {
+  top: 322px;
+  left: 311px;
+  font-weight: 600;
+}
+.select-date5 {
+  position: absolute;
+  top: 379px;
+  left: 20px;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  width: 112px;
+}
+.appointment-page-child100,
+.appointment-page-child101,
+.appointment-page-child99 {
+  position: absolute;
+  top: 418px;
+  left: 28px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro);
+  width: 48px;
+  height: 70px;
+}
+.appointment-page-child100,
+.appointment-page-child101 {
+  left: 369px;
+}
+.appointment-page-child101 {
+  left: 301px;
+}
+.tue5 {
+  position: absolute;
+  top: 431px;
+  left: 312px;
+  color: var(--color-silver-400);
+}
+.appointment-page-child102,
+.appointment-page-child103,
+.appointment-page-child104 {
+  position: absolute;
+  top: 418px;
+  left: 232px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-mediumslateblue-100);
+  width: 48px;
+  height: 70px;
+}
+.appointment-page-child103,
+.appointment-page-child104 {
+  left: 164px;
+  background-color: var(--color-gainsboro);
+}
+.appointment-page-child104 {
+  left: 96px;
+}
+.fri5 {
+  position: absolute;
+  top: 426px;
+  left: 42px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkgray-100);
+}
+.b31,
+.sat5 {
+  position: absolute;
+  top: 455px;
+  left: 46px;
+}
+.sat5 {
+  top: 428px;
+  left: 108px;
+  color: var(--color-silver-200);
+}
+.b32,
+.sun5 {
+  position: absolute;
+  top: 458px;
+  left: 113px;
+}
+.sun5 {
+  top: 428px;
+  left: 172px;
+  color: var(--color-silver-100);
+}
+.b33,
+.mon5 {
+  position: absolute;
+  top: 458px;
+  left: 179px;
+}
+.mon5 {
+  top: 428px;
+  left: 240px;
+  color: var(--color-white);
+}
+.b34,
+.b35,
+.wed5 {
+  position: absolute;
+  top: 458px;
+  left: 249px;
+}
+.b35,
+.wed5 {
+  top: 461px;
+  left: 325px;
+}
+.wed5 {
+  top: 434px;
+  left: 377px;
+  color: var(--color-rosybrown-100);
+}
+.b36,
+.select-time5 {
+  position: absolute;
+  top: 458px;
+  left: 385px;
+}
+.select-time5 {
+  top: 525px;
+  left: 20px;
+  font-size: var(--font-size-lg);
+}
+.appointment-page-child105,
+.appointment-page-child107,
+.appointment-page-child108,
+.appointment-page-child109 {
+  position: absolute;
+  top: 569px;
+  left: 25px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro);
+  width: 95px;
+  height: 24px;
+}
+.appointment-page-child107,
+.appointment-page-child108,
+.appointment-page-child109 {
+  top: 735px;
+  left: 20px;
+  width: 109px;
+}
+.appointment-page-child108,
+.appointment-page-child109 {
+  left: 151px;
+  width: 111px;
+}
+.appointment-page-child109 {
+  left: 290px;
+  width: 116px;
+}
+.video-call5 {
+  position: absolute;
+  top: 728px;
+  left: 304px;
+  font-weight: 500;
+  font-family: var(--font-inknut-antiqua);
+}
+.appointment-page-child110 {
+  position: absolute;
+  top: 784px;
+  left: 28px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro);
+  width: 95px;
+  height: 24px;
+  cursor: pointer;
+}
+.hospital5,
+.voice-call5 {
+  position: absolute;
+  font-weight: 500;
+  font-family: var(--font-inknut-antiqua);
+}
+.hospital5 {
+  top: 726px;
+  left: 38px;
+  font-size: var(--font-size-base);
+}
+.voice-call5 {
+  top: 727px;
+  left: 164px;
+}
+.appointment-page-child111,
+.appointment-page-child112,
+.appointment-page-child113 {
+  position: absolute;
+  top: 1067px;
+  left: 34px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro);
+  width: 95px;
+  height: 24px;
+}
+.appointment-page-child112,
+.appointment-page-child113 {
+  top: 569px;
+  left: 290px;
+}
+.appointment-page-child113 {
+  left: 167px;
+  background-color: var(--color-mediumslateblue-100);
+}
+.am10 {
+  position: absolute;
+  top: 574px;
+  left: 181px;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+}
+.appointment-page-child114,
+.appointment-page-child115 {
+  position: absolute;
+  top: 618px;
+  left: 164px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro);
+  width: 95px;
+  height: 24px;
+}
+.appointment-page-child115 {
+  left: 28px;
+}
+.am11,
+.pm15,
+.pm16,
+.pm17 {
+  position: absolute;
+  font-weight: 600;
+  font-family: var(--font-inter);
+}
+.am11 {
+  top: 574px;
+  left: 38px;
+  color: var(--color-silver-300);
+}
+.pm15,
+.pm16,
+.pm17 {
+  top: 572px;
+  left: 305px;
+}
+.pm16,
+.pm17 {
+  top: 621px;
+  left: 40px;
+}
+.pm17 {
+  left: 178px;
+}
+.appointment-options5 {
+  position: absolute;
+  top: 696px;
+  left: 28px;
+  font-size: var(--font-size-lg);
+  font-weight: 700;
+}
+.chat5 {
+  position: absolute;
+  top: 776px;
+  left: 52px;
+  font-weight: 500;
+  font-family: var(--font-inknut-antiqua);
+}
+.appointment-page-child116 {
+  position: absolute;
+  top: 852px;
+  left: 62px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-mediumslateblue-200);
+  width: 317px;
+  height: 40px;
+}
+.make-appointment5 {
+  position: absolute;
+  top: 859px;
+  left: 139px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+}
+.button-m-child3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-skyblue-300);
+}
+.professional-doctor5 {
+  position: absolute;
+  top: 0;
+  left: 26.47%;
+}
+.certificate-icon5 {
+  position: absolute;
+  height: 80%;
+  width: 9.31%;
+  top: 15%;
+  right: 83.33%;
+  bottom: 5%;
+  left: 7.35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.button-m5 {
+  position: absolute;
+  top: 147px;
+  left: 92px;
+  width: 204px;
+  height: 20px;
+  color: var(--color-cadetblue);
+  font-family: var(--font-inika);
+}
+.appointment-page5 {
+  position: relative;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  width: 100%;
+  height: 926px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-inria-serif);
+}

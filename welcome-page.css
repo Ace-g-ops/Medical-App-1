@@ -1,0 +1,89 @@
+.new-removebg-preview-1-icon {
+  position: absolute;
+  top: 207px;
+  left: 61px;
+  width: 301px;
+  height: 513px;
+  object-fit: cover;
+}
+.medical-support-wherever {
+  margin: 0;
+}
+.medical-support-wherever-container,
+.your-health-our-container {
+  position: absolute;
+  top: 144px;
+  left: calc(50% - 133px);
+  white-space: pre-wrap;
+}
+.your-health-our-container {
+  top: 41px;
+  font-size: 32px;
+  font-weight: 700;
+}
+.welcome-page-child {
+  position: absolute;
+  top: 842px;
+  left: calc(50% - 166px);
+  border-radius: var(--br-81xl);
+  background: linear-gradient(
+    180deg,
+    #c2ebf4 12.51%,
+    rgba(217, 217, 217, 0.46) 82.3%
+  );
+  width: 340px;
+  height: 45px;
+}
+.get-started {
+  position: absolute;
+  top: 853px;
+  left: calc(50% + 28px);
+  font-size: var(--font-size-xl);
+  cursor: pointer;
+}
+.welcome-page-item {
+  position: absolute;
+  top: 842px;
+  left: 74px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 51px;
+  height: 44px;
+}
+.vector-icon83,
+.vector-icon84,
+.vector-icon85 {
+  position: absolute;
+  height: 1.51%;
+  width: 1.87%;
+  top: 92.55%;
+  right: 72.9%;
+  bottom: 5.94%;
+  left: 25.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon84,
+.vector-icon85 {
+  top: 92.66%;
+  right: 75.93%;
+  bottom: 5.83%;
+  left: 22.2%;
+}
+.vector-icon85 {
+  right: 78.97%;
+  left: 19.16%;
+}
+.welcome-page {
+  position: relative;
+  border-radius: var(--br-81xl);
+  background: linear-gradient(180deg, #fff 79.8%, #79afff 88.66%);
+  width: 100%;
+  height: 926px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

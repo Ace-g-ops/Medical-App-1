@@ -1,0 +1,863 @@
+.vector-icon61,
+.vector-icon62 {
+  position: absolute;
+  height: 2.05%;
+  width: 3.74%;
+  top: 46.87%;
+  right: 94.63%;
+  bottom: 51.08%;
+  left: 1.64%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon62 {
+  height: 0.65%;
+  width: 2.34%;
+  top: 46.65%;
+  right: 95.56%;
+  bottom: 52.7%;
+  left: 2.1%;
+}
+.health-report-page-child {
+  position: absolute;
+  top: 828px;
+  left: 3px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 423px;
+  height: 56px;
+}
+.vector-icon63,
+.vector-icon64 {
+  position: absolute;
+  height: 2.92%;
+  width: 7.48%;
+  top: 90.28%;
+  right: 85.75%;
+  bottom: 6.8%;
+  left: 6.78%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon64 {
+  height: 2.7%;
+  width: 5.14%;
+  top: 90.6%;
+  right: 66.59%;
+  bottom: 6.7%;
+  left: 28.27%;
+}
+.vector-icon65,
+.vector-icon66 {
+  position: absolute;
+  height: 2.48%;
+  top: 91.04%;
+  bottom: 6.48%;
+  left: calc(50% - 13px);
+  max-height: 100%;
+  width: 19px;
+}
+.vector-icon66 {
+  height: 2.7%;
+  top: 90.6%;
+  bottom: 6.7%;
+  left: calc(50% - 10px);
+  width: 23px;
+}
+.vector-icon67,
+.vector-icon68 {
+  position: absolute;
+  height: 2.59%;
+  width: 5.14%;
+  top: 90.6%;
+  right: 68.46%;
+  bottom: 6.8%;
+  left: 26.4%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon68 {
+  height: 2.38%;
+  top: 91.04%;
+  right: 25.93%;
+  bottom: 6.59%;
+  left: 68.93%;
+}
+.health-report-page-inner,
+.health-report-page-item {
+  position: absolute;
+  top: 870px;
+  left: 37px;
+  border-radius: 50%;
+  background-color: var(--color-royalblue);
+  width: 13px;
+  height: 12px;
+}
+.health-report-page-inner {
+  top: 831px;
+  left: 308px;
+  background-color: var(--color-red);
+  width: 20px;
+  height: 23px;
+  cursor: pointer;
+}
+.div3 {
+  position: absolute;
+  top: 834px;
+  left: 315px;
+  font-size: var(--font-size-smi);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  display: inline-block;
+  width: 7px;
+  height: 18px;
+}
+.vector-icon69,
+.vector-icon70 {
+  position: absolute;
+  max-height: 100%;
+}
+.vector-icon69 {
+  height: 2.7%;
+  width: 5.61%;
+  top: 90.71%;
+  right: 7.01%;
+  bottom: 6.59%;
+  left: 87.38%;
+  max-width: 100%;
+  overflow: hidden;
+}
+.vector-icon70 {
+  height: 1.15%;
+  top: 106.8%;
+  bottom: -7.95%;
+  left: 104.03%;
+  width: 0;
+}
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 187, 247, 0.64),
+    rgba(50, 114, 134, 0.55) 70.32%
+  );
+  width: 392.12px;
+  height: 337.73px;
+}
+.health-report1,
+.mon-14-aug {
+  position: absolute;
+  top: 32.51px;
+  left: 16.82px;
+  font-weight: 600;
+  display: inline-block;
+  width: 142.51px;
+  height: 30.42px;
+}
+.mon-14-aug {
+  top: 67.31px;
+  font-weight: 500;
+  width: 229.25px;
+  height: 25.17px;
+}
+.health-report-button6,
+.notification-button-child1,
+.vector-icon71 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.notification-button-child1 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-powderblue);
+}
+.health-report-button6,
+.vector-icon71 {
+  display: none;
+}
+.vector-icon71 {
+  height: 61.9%;
+  width: 55.88%;
+  top: 19.05%;
+  right: 22.06%;
+  bottom: 19.05%;
+  left: 22.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.health-report-button5 {
+  position: absolute;
+  top: 219.21px;
+  left: 21.24px;
+  width: 60.19px;
+  height: 66.08px;
+  cursor: pointer;
+}
+.deep-sleep {
+  position: absolute;
+  top: 240.81px;
+  left: 26.55px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-inria-serif);
+  display: inline-block;
+  width: 66.39px;
+  height: 17.06px;
+}
+.group-div,
+.vector-group {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group-div {
+  height: 39.42%;
+  width: 104.44%;
+  top: 3.13%;
+  right: -8.64%;
+  bottom: 57.45%;
+  left: 4.21%;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.health-report-page-child1 {
+  position: absolute;
+  top: 65px;
+  left: 285px;
+  border-radius: var(--br-xl);
+  background: linear-gradient(
+    175.3deg,
+    #61cff2,
+    rgba(16, 114, 145, 0.39) 83.34%
+  );
+  width: 114px;
+  height: 27px;
+}
+.update {
+  position: absolute;
+  top: 69px;
+  left: 308px;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+  display: inline-block;
+  width: 45px;
+  height: 17px;
+}
+.vector-icon72 {
+  position: absolute;
+  height: 1.84%;
+  width: 3.74%;
+  top: 7.67%;
+  right: 10.51%;
+  bottom: 90.5%;
+  left: 85.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.health-report-page-child2,
+.health-report-page-child3,
+.health-report-page-child4 {
+  position: absolute;
+  top: 129px;
+  left: 37px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-skyblue-100);
+  width: 102px;
+  height: 103px;
+}
+.health-report-page-child3,
+.health-report-page-child4 {
+  top: 136px;
+  left: 294px;
+  width: 103px;
+}
+.health-report-page-child4 {
+  top: 129px;
+  left: 163px;
+}
+.h {
+  top: 186px;
+  left: 54px;
+  width: 28px;
+}
+.deep-sleep1,
+.h,
+.normal {
+  position: absolute;
+  display: inline-block;
+  height: 17px;
+}
+.normal {
+  top: 209px;
+  left: 54px;
+  color: #c6acac;
+  width: 45px;
+}
+.deep-sleep1 {
+  top: 164px;
+  left: 44px;
+  width: 67px;
+}
+.vector-icon73,
+.vector-icon74 {
+  position: absolute;
+  height: 1.98%;
+  width: 4.76%;
+  top: 14.83%;
+  right: 83.09%;
+  bottom: 83.19%;
+  left: 12.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon74 {
+  height: 2.27%;
+  width: 6.31%;
+  top: 14.79%;
+  right: 51.64%;
+  bottom: 82.94%;
+  left: 42.06%;
+}
+.bpm,
+.heart-ride,
+.normal1,
+.normal2 {
+  position: absolute;
+  top: 164px;
+  left: 173px;
+  display: inline-block;
+  width: 65px;
+  height: 17px;
+}
+.bpm,
+.normal1,
+.normal2 {
+  top: 187px;
+  left: 180px;
+  width: 42px;
+}
+.normal1,
+.normal2 {
+  top: 208px;
+  left: 305px;
+  color: #ac7b7b;
+  width: 45px;
+}
+.normal2 {
+  top: 211px;
+  left: 180px;
+  color: #cb9b9b;
+}
+.vector-icon75 {
+  position: absolute;
+  height: 2.59%;
+  width: 3.27%;
+  top: 14.58%;
+  right: 22.9%;
+  bottom: 82.83%;
+  left: 73.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.average,
+.div4,
+.walk-sleep {
+  position: absolute;
+  top: 166px;
+  left: 308px;
+  display: inline-block;
+  width: 67px;
+  height: 18px;
+}
+.average,
+.div4 {
+  top: 189px;
+  width: 39px;
+  height: 17px;
+}
+.average {
+  top: 248px;
+  left: 41px;
+  color: var(--color-white);
+  width: 49px;
+}
+.vector-icon76 {
+  position: absolute;
+  height: 0.86%;
+  width: 3.04%;
+  top: 29.48%;
+  right: 71.26%;
+  bottom: 69.65%;
+  left: 25.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.highest-48,
+.lowest-3h {
+  position: absolute;
+  top: 310px;
+  left: 35px;
+  font-size: var(--font-size-smi);
+  color: var(--color-white);
+  display: inline-block;
+  width: 61px;
+  height: 17px;
+}
+.highest-48 {
+  left: 99px;
+  width: 68px;
+}
+.health-report-page-child5 {
+  position: absolute;
+  top: 349px;
+  left: calc(50% - 41px);
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  width: 77px;
+  height: 9px;
+}
+.bar-chart-child,
+.bar-chart-item {
+  position: absolute;
+  top: 36.03px;
+  left: 42.49px;
+  border-radius: var(--br-xl);
+  background-color: rgba(70, 188, 239, 0.57);
+  width: 13.69px;
+  height: 23.22px;
+}
+.bar-chart-item {
+  top: 21.81px;
+  left: 22.13px;
+  background-color: rgba(70, 188, 239, 0.44);
+  height: 37.01px;
+}
+.bar-chart-inner {
+  top: 0;
+  left: 62.85px;
+  background-color: #47bcef;
+  height: 58.78px;
+}
+.bar-chart-child1,
+.bar-chart-child2,
+.bar-chart-inner {
+  position: absolute;
+  border-radius: var(--br-xl);
+  width: 13.69px;
+}
+.bar-chart-child1 {
+  top: 29.03px;
+  left: 0;
+  background-color: rgba(113, 205, 244, 0.6);
+  height: 29.75px;
+}
+.bar-chart-child2 {
+  top: 13.27px;
+  left: 107.1px;
+  background-color: #76c1e1;
+  height: 44.27px;
+}
+.t {
+  position: absolute;
+  top: 58.78px;
+  left: 110.64px;
+  display: inline-block;
+  width: 6.2px;
+  height: 13.27px;
+}
+.bar-chart-child3 {
+  position: absolute;
+  top: 19.91px;
+  left: 127.46px;
+  border-radius: var(--br-xl);
+  background-color: rgba(120, 190, 221, 0.52);
+  width: 13.69px;
+  height: 37.01px;
+}
+.f {
+  position: absolute;
+  top: 57.83px;
+  left: 132.77px;
+  display: inline-block;
+  width: 6.2px;
+  height: 13.27px;
+}
+.bar-chart-child4 {
+  position: absolute;
+  top: 29.39px;
+  left: 84.97px;
+  border-radius: var(--br-xl);
+  background-color: #84c4e0;
+  width: 13.69px;
+  height: 27.58px;
+}
+.bar-chart,
+.w {
+  position: absolute;
+}
+.w {
+  top: 57.83px;
+  left: 86.74px;
+  display: inline-block;
+  width: 10.62px;
+  height: 13.27px;
+}
+.bar-chart {
+  top: 248px;
+  left: 252.56px;
+  width: 141.15px;
+  height: 72.05px;
+}
+.s {
+  top: 306px;
+  left: 260px;
+  font-size: var(--font-size-smi);
+  width: 6px;
+  height: 15px;
+}
+.m,
+.s,
+.s1,
+.t1 {
+  position: absolute;
+  display: inline-block;
+}
+.s1 {
+  top: 307px;
+  left: 281px;
+  font-size: var(--font-size-smi);
+  width: 6px;
+  height: 15px;
+}
+.m,
+.t1 {
+  top: 306px;
+  left: 299px;
+  width: 10px;
+  height: 13px;
+}
+.t1 {
+  top: 307px;
+  left: 322px;
+  width: 6px;
+}
+.vector-icon77 {
+  position: absolute;
+  height: 18.03%;
+  width: 5.66%;
+  top: 82.8%;
+  right: 20.05%;
+  bottom: -0.83%;
+  left: 74.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.reminder-button-child,
+.reminder-button-inner,
+.reminder-button-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro);
+  width: 48px;
+  height: 70px;
+}
+.reminder-button-inner,
+.reminder-button-item {
+  left: 341px;
+}
+.reminder-button-inner {
+  left: 273px;
+}
+.tue7 {
+  position: absolute;
+  top: 13px;
+  left: 284px;
+  color: var(--color-silver-400);
+}
+.reminder-button-child1,
+.reminder-button-child2,
+.reminder-button-child3 {
+  position: absolute;
+  top: 0;
+  left: 204px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-mediumslateblue-100);
+  width: 48px;
+  height: 70px;
+}
+.reminder-button-child2,
+.reminder-button-child3 {
+  left: 136px;
+  background-color: var(--color-gainsboro);
+}
+.reminder-button-child3 {
+  left: 68px;
+}
+.fri7 {
+  position: absolute;
+  top: 8px;
+  left: 14px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkgray-100);
+}
+.b43,
+.sat7 {
+  position: absolute;
+  top: 37px;
+  left: 18px;
+}
+.sat7 {
+  top: 10px;
+  left: 80px;
+  color: var(--color-silver-200);
+}
+.b44,
+.sun7 {
+  position: absolute;
+  top: 40px;
+  left: 85px;
+}
+.sun7 {
+  top: 10px;
+  left: 144px;
+  color: var(--color-silver-100);
+}
+.b45,
+.mon7 {
+  position: absolute;
+  top: 40px;
+  left: 151px;
+}
+.mon7 {
+  top: 10px;
+  left: 212px;
+  color: var(--color-white);
+}
+.b46,
+.b47,
+.wed7 {
+  position: absolute;
+  top: 40px;
+  left: 221px;
+}
+.b47,
+.wed7 {
+  top: 43px;
+  left: 297px;
+}
+.wed7 {
+  top: 16px;
+  left: 349px;
+  color: var(--color-rosybrown-100);
+}
+.b48,
+.reminder-button {
+  position: absolute;
+  top: 40px;
+  left: 357px;
+}
+.reminder-button {
+  height: 13.04%;
+  width: 90.89%;
+  top: 48.81%;
+  right: 4.44%;
+  bottom: 38.15%;
+  left: 4.67%;
+  font-size: var(--font-size-mini);
+}
+.reminders {
+  position: absolute;
+  top: 410px;
+  left: 24px;
+  font-size: var(--font-size-base);
+}
+.today-activities {
+  position: absolute;
+  top: 543px;
+  left: 23px;
+  font-size: var(--font-size-smi);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 146px;
+  height: 21px;
+}
+.health-report-page-child6 {
+  position: absolute;
+  top: 573px;
+  left: 9px;
+  border-radius: var(--br-21xl);
+  background: linear-gradient(110.48deg, #4cbdcc, rgba(72, 138, 152, 0.72));
+  width: 411px;
+  height: 133px;
+}
+.acetaminophen {
+  position: absolute;
+  top: 588px;
+  left: 87px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  width: 146px;
+  height: 20px;
+}
+.vector-icon78 {
+  position: absolute;
+  height: 3.35%;
+  width: 9.35%;
+  top: 63.5%;
+  right: 82.71%;
+  bottom: 33.15%;
+  left: 7.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.health-report-page-child7 {
+  position: absolute;
+  top: 663.82px;
+  left: 9.94px;
+  width: 410.07px;
+  height: 2.72px;
+}
+.after-breakfast-after,
+.mg-6capsules {
+  position: absolute;
+  top: 637px;
+  left: 74px;
+  font-size: var(--font-size-smi);
+  display: inline-block;
+  color: var(--color-white);
+  width: 180px;
+  height: 16px;
+}
+.mg-6capsules {
+  top: 608px;
+  left: 87px;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  width: 121px;
+}
+.vector-icon79 {
+  position: absolute;
+  height: 2.24%;
+  width: 1.56%;
+  top: 63%;
+  right: 7.32%;
+  bottom: 34.76%;
+  left: 91.12%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon80,
+.x-icon {
+  position: absolute;
+  top: 678px;
+  left: 72px;
+  width: 20px;
+  height: 18px;
+  overflow: hidden;
+}
+.vector-icon80 {
+  height: 1.51%;
+  width: 5.37%;
+  top: 73.65%;
+  right: 27.34%;
+  bottom: 24.84%;
+  left: 67.29%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.done,
+.skip {
+  position: absolute;
+  top: 677px;
+  left: 106px;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+}
+.done {
+  top: 682px;
+  left: 341px;
+  cursor: pointer;
+}
+.health-report-page-child8 {
+  position: absolute;
+  top: 727px;
+  left: 8px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro);
+  width: 412px;
+  height: 76px;
+}
+.vector-icon81,
+.vector-icon82 {
+  position: absolute;
+  height: 2.62%;
+  width: 1.66%;
+  top: 79.16%;
+  right: 7.22%;
+  bottom: 18.23%;
+  left: 91.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon82 {
+  width: 5.66%;
+  top: 80.02%;
+  right: 86.86%;
+  bottom: 17.36%;
+  left: 7.48%;
+}
+.mg-2pills,
+.panadol {
+  position: absolute;
+  top: 737px;
+  left: 78px;
+  font-size: var(--font-size-xl);
+}
+.mg-2pills {
+  top: 770px;
+  font-size: var(--font-size-base);
+}
+.health-report-page {
+  position: relative;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  width: 100%;
+  height: 926px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-inria-serif);
+}

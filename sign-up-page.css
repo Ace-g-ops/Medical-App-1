@@ -1,0 +1,146 @@
+.undraw-sign-up-n6im-1-icon {
+  position: absolute;
+  top: 44px;
+  left: calc(50% - 142px);
+  width: 283.92px;
+  height: 227px;
+  overflow: hidden;
+}
+.sign-up-button-child,
+.sign-up-button-item {
+  position: absolute;
+  height: 13.46%;
+  width: 97.83%;
+  right: 2.1%;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+}
+.sign-up-button-child {
+  border: 0;
+  top: 0.48%;
+  bottom: 86.06%;
+  left: 0.06%;
+}
+.sign-up-button-item {
+  top: 22.31%;
+  bottom: 64.24%;
+  left: 0.07%;
+  transform: rotate(0.01deg);
+  transform-origin: 0 0;
+}
+.username {
+  border: 0;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  position: absolute;
+  top: 25.9%;
+  left: 6.36%;
+  color: var(--color-black);
+  text-align: left;
+}
+.sign-up-button-child1,
+.sign-up-button-child2,
+.sign-up-button-inner {
+  position: absolute;
+  height: 13.46%;
+  width: 97.83%;
+  top: 43.67%;
+  right: 2.03%;
+  bottom: 42.88%;
+  left: 0.13%;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  transform: rotate(0.56deg);
+  transform-origin: 0 0;
+}
+.sign-up-button-child1,
+.sign-up-button-child2 {
+  top: 66.2%;
+  right: 0.86%;
+  bottom: 20.35%;
+  left: 1.31%;
+  transform: rotate(-0.25deg);
+}
+.sign-up-button-child2 {
+  top: 87.89%;
+  right: 0.07%;
+  bottom: -1.35%;
+  left: 2.09%;
+  transform: rotate(-0.07deg);
+}
+.enter-your-name {
+  position: absolute;
+  top: 4.32%;
+  left: 6.36%;
+  font-weight: 600;
+}
+.confirm-password,
+.enter-your-phone,
+.password {
+  border: 0;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  position: absolute;
+  color: var(--color-black);
+  text-align: left;
+}
+.enter-your-phone {
+  top: 47.74%;
+  left: 4.83%;
+  transform: rotate(-0.02deg);
+  transform-origin: 0 0;
+}
+.confirm-password,
+.password {
+  top: 69.56%;
+  left: 9.41%;
+}
+.confirm-password {
+  top: 91.4%;
+  left: 6.36%;
+}
+.sign-up-button {
+  position: absolute;
+  top: 330px;
+  left: 17px;
+  width: 393.18px;
+  height: 393.88px;
+}
+.b {
+  position: absolute;
+  top: 853px;
+  left: calc(50% - 156px);
+  cursor: pointer;
+}
+.sign-up-page-child {
+  position: absolute;
+  top: 776px;
+  left: calc(50% - 129px);
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 270px;
+  height: 46px;
+}
+.sign-up {
+  position: absolute;
+  top: 792px;
+  left: 177px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.sign-up-page {
+  position: relative;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-skyblue-200);
+  width: 100%;
+  height: 926px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
